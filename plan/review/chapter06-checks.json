@@ -1,0 +1,43 @@
+{
+  "chapter": 6,
+  "han_characters_total": 4135,
+  "han_characters_body_excluding_headings_and_markers": 4048,
+  "paragraphs": 25,
+  "headings": [
+    {
+      "style_id": "2",
+      "text": "第6章 结论与展望"
+    },
+    {
+      "style_id": "3",
+      "text": "6.1 主要研究结论"
+    },
+    {
+      "style_id": "3",
+      "text": "6.2 研究贡献"
+    },
+    {
+      "style_id": "3",
+      "text": "6.3 研究局限"
+    },
+    {
+      "style_id": "3",
+      "text": "6.4 未来研究展望"
+    }
+  ],
+  "figure_placeholders": [],
+  "pending_sources": [
+    "[待补充：统一版本的数据清洗与样本映射记录、网络及主题模型运行文件、生命周期拟合代码，以及大模型节点输出、独立评价和代表工程验证资料。]"
+  ],
+  "forbidden_words": [],
+  "body_bullets": [],
+  "text_match": true,
+  "source_tables_preserved": [],
+  "new_tables_verified": 0,
+  "source_equation_paragraphs_preserved": [],
+  "table_diagram_placeholders": 0,
+  "original_styles_and_section_preserved": true,
+  "baseline_files_unchanged": true,
+  "soffice_available": false,
+  "visual_qa_performed": false
+}

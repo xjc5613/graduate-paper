@@ -1,0 +1,139 @@
+{
+  "chapter": 5,
+  "han_characters_total": 14218,
+  "han_characters_body_excluding_headings_and_markers": 12342,
+  "paragraphs": 109,
+  "headings": [
+    {
+      "style_id": "2",
+      "text": "第5章 基于大语言模型的智能建造关键技术发展研判"
+    },
+    {
+      "style_id": "3",
+      "text": "5.1 研究目标与总体框架"
+    },
+    {
+      "style_id": "4",
+      "text": "5.1.1 由技术识别向发展研判的研究目标"
+    },
+    {
+      "style_id": "4",
+      "text": "5.1.2 研究框架与材料适用范围"
+    },
+    {
+      "style_id": "3",
+      "text": "5.2 关键技术主题与演化证据组织"
+    },
+    {
+      "style_id": "4",
+      "text": "5.2.1 技术主题、关键词与工程场景的统一表示"
+    },
+    {
+      "style_id": "4",
+      "text": "5.2.2 动态网络证据的组织与解释"
+    },
+    {
+      "style_id": "4",
+      "text": "5.2.3 来源、时间与证据边界"
+    },
+    {
+      "style_id": "3",
+      "text": "5.3 基于LangGraph的多阶段发展研判流程"
+    },
+    {
+      "style_id": "4",
+      "text": "5.3.1 主题预测与结构化输出"
+    },
+    {
+      "style_id": "4",
+      "text": "5.3.2 科学评审与有限修正"
+    },
+    {
+      "style_id": "4",
+      "text": "5.3.3 路线图生成与跨主题综合"
+    },
+    {
+      "style_id": "3",
+      "text": "5.4 面向发展研判的RAG增强方案设计"
+    },
+    {
+      "style_id": "4",
+      "text": "5.4.1 领域知识库与证据元数据"
+    },
+    {
+      "style_id": "4",
+      "text": "5.4.2 面向技术命题的混合检索"
+    },
+    {
+      "style_id": "4",
+      "text": "5.4.3 证据包、逐命题引用与受控补检索"
+    },
+    {
+      "style_id": "4",
+      "text": "5.4.4 时间一致性与方法复现约束"
+    },
+    {
+      "style_id": "3",
+      "text": "5.5 技术发展研判结果与评价"
+    },
+    {
+      "style_id": "4",
+      "text": "5.5.1 九类关键技术的瓶颈与可能突破"
+    },
+    {
+      "style_id": "4",
+      "text": "5.5.2 技术清单与分阶段发展路径"
+    },
+    {
+      "style_id": "4",
+      "text": "5.5.3 复杂工程场景下的技术扩展"
+    },
+    {
+      "style_id": "4",
+      "text": "5.5.4 研判结果的证据一致性与评价设计"
+    },
+    {
+      "style_id": "3",
+      "text": "5.6 智能建造关键技术发展建议"
+    },
+    {
+      "style_id": "4",
+      "text": "5.6.1 围绕工程依赖组织技术研发"
+    },
+    {
+      "style_id": "4",
+      "text": "5.6.2 完善数据标准与工程验证机制"
+    },
+    {
+      "style_id": "4",
+      "text": "5.6.3 促进研发、应用与人才培养衔接"
+    },
+    {
+      "style_id": "3",
+      "text": "5.7 本章小结"
+    }
+  ],
+  "figure_placeholders": [
+    "[图5-1 从关键技术识别到证据约束发展研判的研究框架（待插入）]",
+    "[图5-2 当前多阶段研判流程与有限修正分支（待插入）]",
+    "[图5-3 结构化查询、文本混合检索与逐命题校验的RAG方案（待插入）]",
+    "[图5-4 九类关键技术的阶段路径与前置条件关系（待插入）]"
+  ],
+  "pending_sources": [
+    "[待补充：九主题输入文件及版本、代表专利映射表、摘要与原始表格的逐项对应关系，以及主题证据的可获得时间记录。]",
+    "[待补充：RAG接入记录、全文切分与检索标注集、证据快照、实际模型配置、逐命题引用记录及节点运行日志。]",
+    "[待补充：极端场景代表工程的原始技术报告、环境参数、试验条件及长期运行资料；现阶段未将报告中的具体工程数值作为已核实依据。]",
+    "[待补充：固定输入下的各阶段输出、评审与修正对照、检索标注集、专家评价记录、运行成本和延迟记录，以及预先定义事件的历史验证数据。]"
+  ],
+  "forbidden_words": [],
+  "body_bullets": [],
+  "text_match": true,
+  "source_tables_preserved": [],
+  "new_tables_verified": 4,
+  "source_equation_paragraphs_preserved": [],
+  "table_diagram_placeholders": 0,
+  "original_styles_and_section_preserved": true,
+  "baseline_files_unchanged": true,
+  "soffice_available": false,
+  "visual_qa_performed": false
+}

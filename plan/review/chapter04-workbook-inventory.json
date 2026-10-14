@@ -1,0 +1,12 @@
+{
+  "source": "专利主题聚类时间all.xlsx",
+  "physical_rows": 5914,
+  "title_records": 5913,
+  "unique_titles": 5617,
+  "abstract_count": 5913,
+  "ipc_count": 5913,
+  "earliest_date": "2010-02-25",
+  "latest_date": "2025-08-04",
+  "header_G1": "C08L97 C08K9 B28C7 B66C23 E02D33 E02D29 G16Y10 G06Q50 G01S15 G08B21",
+  "note": "文件无完整公布/公告号字段，仅序号、题名、摘要、申请日、IPC；未证明对应926文本子集，不能据此替代原稿样本。"
+}

@@ -1,0 +1,946 @@
+{
+  "checked_cells": 116,
+  "mismatches": [],
+  "missing_records": [
+    {
+      "stage": 1,
+      "ipc": "G01B11",
+      "source_values": [
+        "0.0270",
+        "0.0000",
+        "0.1568",
+        "7"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "stage": 1,
+      "ipc": "B29C67",
+      "metric": "degree",
+      "source_table_value": 0.0405,
+      "supplement_value": 0.0405,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B29C67",
+      "metric": "betweenness",
+      "source_table_value": 0.0296,
+      "supplement_value": 0.0296,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B29C67",
+      "metric": "closeness",
+      "source_table_value": 0.197,
+      "supplement_value": 0.197,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B29C67",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "C08F220",
+      "metric": "degree",
+      "source_table_value": 0.027,
+      "supplement_value": 0.027,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "C08F220",
+      "metric": "betweenness",
+      "source_table_value": 0.0,
+      "supplement_value": 0.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "C08F220",
+      "metric": "closeness",
+      "source_table_value": 0.1481,
+      "supplement_value": 0.1481,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "C08F220",
+      "metric": "eccentricity",
+      "source_table_value": 7.0,
+      "supplement_value": 7.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B1",
+      "metric": "degree",
+      "source_table_value": 0.0811,
+      "supplement_value": 0.0811,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B1",
+      "metric": "betweenness",
+      "source_table_value": 0.1238,
+      "supplement_value": 0.1238,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B1",
+      "metric": "closeness",
+      "source_table_value": 0.2337,
+      "supplement_value": 0.2337,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B1",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04C3",
+      "metric": "degree",
+      "source_table_value": 0.027,
+      "supplement_value": 0.027,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04C3",
+      "metric": "betweenness",
+      "source_table_value": 0.0,
+      "supplement_value": 0.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04C3",
+      "metric": "closeness",
+      "source_table_value": 0.1954,
+      "supplement_value": 0.1954,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04C3",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B2",
+      "metric": "degree",
+      "source_table_value": 0.1216,
+      "supplement_value": 0.1216,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B2",
+      "metric": "betweenness",
+      "source_table_value": 0.1411,
+      "supplement_value": 0.1411,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B2",
+      "metric": "closeness",
+      "source_table_value": 0.2591,
+      "supplement_value": 0.2591,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04B2",
+      "metric": "eccentricity",
+      "source_table_value": 4.0,
+      "supplement_value": 4.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B28B1",
+      "metric": "degree",
+      "source_table_value": 0.0541,
+      "supplement_value": 0.0541,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B28B1",
+      "metric": "betweenness",
+      "source_table_value": 0.0001,
+      "supplement_value": 0.0001,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B28B1",
+      "metric": "closeness",
+      "source_table_value": 0.1834,
+      "supplement_value": 0.1834,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B28B1",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B25J11",
+      "metric": "degree",
+      "source_table_value": 0.0405,
+      "supplement_value": 0.0405,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B25J11",
+      "metric": "betweenness",
+      "source_table_value": 0.0,
+      "supplement_value": 0.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B25J11",
+      "metric": "closeness",
+      "source_table_value": 0.1568,
+      "supplement_value": 0.1568,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "B25J11",
+      "metric": "eccentricity",
+      "source_table_value": 7.0,
+      "supplement_value": 7.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G3",
+      "metric": "degree",
+      "source_table_value": 0.027,
+      "supplement_value": 0.027,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G3",
+      "metric": "betweenness",
+      "source_table_value": 0.0,
+      "supplement_value": 0.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G3",
+      "metric": "closeness",
+      "source_table_value": 0.1922,
+      "supplement_value": 0.1922,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G3",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G21",
+      "metric": "degree",
+      "source_table_value": 0.1757,
+      "supplement_value": 0.1757,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G21",
+      "metric": "betweenness",
+      "source_table_value": 0.214,
+      "supplement_value": 0.214,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G21",
+      "metric": "closeness",
+      "source_table_value": 0.2838,
+      "supplement_value": 0.2838,
+      "equal": true
+    },
+    {
+      "stage": 1,
+      "ipc": "E04G21",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B33Y70",
+      "metric": "degree",
+      "source_table_value": 0.1257,
+      "supplement_value": 0.1257,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B33Y70",
+      "metric": "betweenness",
+      "source_table_value": 0.0349,
+      "supplement_value": 0.0349,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B33Y70",
+      "metric": "closeness",
+      "source_table_value": 0.3394,
+      "supplement_value": 0.3394,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B33Y70",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B25J11",
+      "metric": "degree",
+      "source_table_value": 0.0832,
+      "supplement_value": 0.0832,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B25J11",
+      "metric": "betweenness",
+      "source_table_value": 0.0599,
+      "supplement_value": 0.0599,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B25J11",
+      "metric": "closeness",
+      "source_table_value": 0.3448,
+      "supplement_value": 0.3448,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B25J11",
+      "metric": "eccentricity",
+      "source_table_value": 4.0,
+      "supplement_value": 4.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B1",
+      "metric": "degree",
+      "source_table_value": 0.1779,
+      "supplement_value": 0.1779,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B1",
+      "metric": "betweenness",
+      "source_table_value": 0.1164,
+      "supplement_value": 0.1164,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B1",
+      "metric": "closeness",
+      "source_table_value": 0.3905,
+      "supplement_value": 0.3905,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B1",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06F30",
+      "metric": "degree",
+      "source_table_value": 0.0967,
+      "supplement_value": 0.0967,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06F30",
+      "metric": "betweenness",
+      "source_table_value": 0.0533,
+      "supplement_value": 0.0533,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06F30",
+      "metric": "closeness",
+      "source_table_value": 0.3716,
+      "supplement_value": 0.3716,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06F30",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B2",
+      "metric": "degree",
+      "source_table_value": 0.1006,
+      "supplement_value": 0.1006,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B2",
+      "metric": "betweenness",
+      "source_table_value": 0.0239,
+      "supplement_value": 0.0239,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B2",
+      "metric": "closeness",
+      "source_table_value": 0.3554,
+      "supplement_value": 0.3554,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "E04B2",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06N3",
+      "metric": "degree",
+      "source_table_value": 0.0232,
+      "supplement_value": 0.0232,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06N3",
+      "metric": "betweenness",
+      "source_table_value": 0.007,
+      "supplement_value": 0.007,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06N3",
+      "metric": "closeness",
+      "source_table_value": 0.2956,
+      "supplement_value": 0.2956,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G06N3",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01B11",
+      "metric": "degree",
+      "source_table_value": 0.0077,
+      "supplement_value": 0.0077,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01B11",
+      "metric": "betweenness",
+      "source_table_value": 0.0006,
+      "supplement_value": 0.0006,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01B11",
+      "metric": "closeness",
+      "source_table_value": 0.2963,
+      "supplement_value": 0.2963,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01B11",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01S17",
+      "metric": "degree",
+      "source_table_value": 0.0193,
+      "supplement_value": 0.0193,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01S17",
+      "metric": "betweenness",
+      "source_table_value": 0.0115,
+      "supplement_value": 0.0115,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01S17",
+      "metric": "closeness",
+      "source_table_value": 0.2594,
+      "supplement_value": 0.2594,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "G01S17",
+      "metric": "eccentricity",
+      "source_table_value": 6.0,
+      "supplement_value": 6.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B21D3",
+      "metric": "degree",
+      "source_table_value": 0.0019,
+      "supplement_value": 0.0019,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B21D3",
+      "metric": "betweenness",
+      "source_table_value": 0.0,
+      "supplement_value": 0.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B21D3",
+      "metric": "closeness",
+      "source_table_value": 0.2698,
+      "supplement_value": 0.2698,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "B21D3",
+      "metric": "eccentricity",
+      "source_table_value": 7.0,
+      "supplement_value": 7.0,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "C04B7",
+      "metric": "degree",
+      "source_table_value": 0.0039,
+      "supplement_value": 0.0039,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "C04B7",
+      "metric": "betweenness",
+      "source_table_value": 0.0001,
+      "supplement_value": 0.0001,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "C04B7",
+      "metric": "closeness",
+      "source_table_value": 0.2467,
+      "supplement_value": 0.2467,
+      "equal": true
+    },
+    {
+      "stage": 2,
+      "ipc": "C04B7",
+      "metric": "eccentricity",
+      "source_table_value": 7.0,
+      "supplement_value": 7.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B33Y70",
+      "metric": "degree",
+      "source_table_value": 0.0951,
+      "supplement_value": 0.0951,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B33Y70",
+      "metric": "betweenness",
+      "source_table_value": 0.0532,
+      "supplement_value": 0.0532,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B33Y70",
+      "metric": "closeness",
+      "source_table_value": 0.3811,
+      "supplement_value": 0.3811,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B33Y70",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B25J11",
+      "metric": "degree",
+      "source_table_value": 0.1462,
+      "supplement_value": 0.1462,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B25J11",
+      "metric": "betweenness",
+      "source_table_value": 0.0648,
+      "supplement_value": 0.0648,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B25J11",
+      "metric": "closeness",
+      "source_table_value": 0.4511,
+      "supplement_value": 0.4511,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B25J11",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "C04B28",
+      "metric": "degree",
+      "source_table_value": 0.0491,
+      "supplement_value": 0.0491,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "C04B28",
+      "metric": "betweenness",
+      "source_table_value": 0.0073,
+      "supplement_value": 0.0073,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "C04B28",
+      "metric": "closeness",
+      "source_table_value": 0.3742,
+      "supplement_value": 0.3742,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "C04B28",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B1",
+      "metric": "degree",
+      "source_table_value": 0.0593,
+      "supplement_value": 0.0593,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B1",
+      "metric": "betweenness",
+      "source_table_value": 0.0131,
+      "supplement_value": 0.0131,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B1",
+      "metric": "closeness",
+      "source_table_value": 0.3982,
+      "supplement_value": 0.3982,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B1",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B13",
+      "metric": "degree",
+      "source_table_value": 0.0204,
+      "supplement_value": 0.0204,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B13",
+      "metric": "betweenness",
+      "source_table_value": 0.0009,
+      "supplement_value": 0.0009,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B13",
+      "metric": "closeness",
+      "source_table_value": 0.3456,
+      "supplement_value": 0.3456,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "B28B13",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01B11",
+      "metric": "degree",
+      "source_table_value": 0.0746,
+      "supplement_value": 0.0746,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01B11",
+      "metric": "betweenness",
+      "source_table_value": 0.0195,
+      "supplement_value": 0.0195,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01B11",
+      "metric": "closeness",
+      "source_table_value": 0.4191,
+      "supplement_value": 0.4191,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01B11",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01S17",
+      "metric": "degree",
+      "source_table_value": 0.0429,
+      "supplement_value": 0.0429,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01S17",
+      "metric": "betweenness",
+      "source_table_value": 0.0041,
+      "supplement_value": 0.0041,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01S17",
+      "metric": "closeness",
+      "source_table_value": 0.3746,
+      "supplement_value": 0.3746,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G01S17",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "E03B9",
+      "metric": "degree",
+      "source_table_value": 0.0082,
+      "supplement_value": 0.0082,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "E03B9",
+      "metric": "betweenness",
+      "source_table_value": 0.0001,
+      "supplement_value": 0.0001,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "E03B9",
+      "metric": "closeness",
+      "source_table_value": 0.3133,
+      "supplement_value": 0.3133,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "E03B9",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06N3",
+      "metric": "degree",
+      "source_table_value": 0.1166,
+      "supplement_value": 0.1166,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06N3",
+      "metric": "betweenness",
+      "source_table_value": 0.0237,
+      "supplement_value": 0.0237,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06N3",
+      "metric": "closeness",
+      "source_table_value": 0.4257,
+      "supplement_value": 0.4257,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06N3",
+      "metric": "eccentricity",
+      "source_table_value": 5.0,
+      "supplement_value": 5.0,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06F30",
+      "metric": "degree",
+      "source_table_value": 0.1943,
+      "supplement_value": 0.1943,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06F30",
+      "metric": "betweenness",
+      "source_table_value": 0.0745,
+      "supplement_value": 0.0745,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06F30",
+      "metric": "closeness",
+      "source_table_value": 0.4782,
+      "supplement_value": 0.4782,
+      "equal": true
+    },
+    {
+      "stage": 3,
+      "ipc": "G06F30",
+      "metric": "eccentricity",
+      "source_table_value": 4.0,
+      "supplement_value": 4.0,
+      "equal": true
+    }
+  ]
+}

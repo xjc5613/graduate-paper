@@ -1,0 +1,35 @@
+{
+  "1": {
+    "record_count": 75,
+    "unique_ipc": 75,
+    "means_of_reported_rows": {
+      "degree": 0.041436000000000035,
+      "betweenness": 0.012453333333333332,
+      "closeness": 0.11751866666666665,
+      "eigenvector": 0.04957733333333335,
+      "eccentricity": 3.96
+    }
+  },
+  "2": {
+    "record_count": 518,
+    "unique_ipc": 518,
+    "means_of_reported_rows": {
+      "degree": 0.013924131274131177,
+      "betweenness": 0.003965830115830115,
+      "closeness": 0.2287343629343632,
+      "eigenvector": 0.010617760617760633,
+      "eccentricity": 5.801158301158301
+    }
+  },
+  "3": {
+    "record_count": 979,
+    "unique_ipc": 979,
+    "means_of_reported_rows": {
+      "degree": 0.012088968335035732,
+      "betweenness": 0.00208161389172625,
+      "closeness": 0.2889492339121559,
+      "eigenvector": 0.004462410623084781,
+      "eccentricity": 5.244126659856997
+    }
+  }
+}

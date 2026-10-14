@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-13",
+  "purpose": "第五章写作与来源审阅快照，不是模型运行输入日志",
+  "model_executed": false,
+  "historical_observation_cutoff": "2025-10-01",
+  "strict_2025_backtest": false,
+  "method_memo_date": "2026-09-30",
+  "report_available_at": null,
+  "warning": "报告及后期技术说明只能按其材料性质使用；未证明2025年已可获得。",
+  "sources": [
+    {
+      "path": "data/chapter04/evolution-evidence-v0.1.json",
+      "sha256": "2c114f27082ee2cb56e6e44fb436b42e1827a8a3a316a3757debe93f210d39f1"
+    },
+    {
+      "path": "chapters/04-identification.md",
+      "sha256": "7bd81ab6807f1ce9edcf28d685b85cd38e232f87cef6a1df0bf9e895c1fd7fe9"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-llm-plan.txt",
+      "sha256": "68bcab7857963f684ff003355e5292e0becc2c8e2a4f0e67d7b0bf5c957dc0f8"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-llm-plan-tables.json",
+      "sha256": "46fa263cb10a2f940f73d02a527d536cefa6b718ae678f510134c7b1e1702639"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-2040-chapter.txt",
+      "sha256": "fe2464d5c1ee09b35b9d777a76e436e8baa140d10a90788b950609e1c9cf0b74"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-2040-chapter-tables.json",
+      "sha256": "0923c061956994302e201bfeb5e0f6fb49811b26d15c83e4c1b88126343c69e3"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-2040-report.txt",
+      "sha256": "29d928fb35cb40850fb341b69339ccd5151c4fd12c716375fc3e00853b5a7ace"
+    },
+    {
+      "path": "refs/source-extracts/chapter05-2040-report-tables.json",
+      "sha256": "705333df05278a04fd67aa37cdf69144b655c5f00eddb11056121cde700293f2"
+    }
+  ]
+}

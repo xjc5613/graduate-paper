@@ -1,0 +1,71 @@
+{
+  "chapter": 2,
+  "han_characters_total": 7190,
+  "han_characters_body_excluding_headings_and_markers": 6961,
+  "paragraphs": 50,
+  "headings": [
+    {
+      "style_id": "2",
+      "text": "第2章 相关概念、理论基础与研究框架"
+    },
+    {
+      "style_id": "3",
+      "text": "2.1 相关概念界定"
+    },
+    {
+      "style_id": "4",
+      "text": "2.1.1 智能建造及其技术范围"
+    },
+    {
+      "style_id": "4",
+      "text": "2.1.2 关键技术与潜在关键技术"
+    },
+    {
+      "style_id": "4",
+      "text": "2.1.3 技术识别、技术演化与技术预测"
+    },
+    {
+      "style_id": "3",
+      "text": "2.2 理论基础"
+    },
+    {
+      "style_id": "4",
+      "text": "2.2.1 技术生命周期理论"
+    },
+    {
+      "style_id": "4",
+      "text": "2.2.2 技术演化与知识组合理论"
+    },
+    {
+      "style_id": "4",
+      "text": "2.2.3 社会网络分析理论"
+    },
+    {
+      "style_id": "3",
+      "text": "2.3 关键技术识别与发展研判的分析逻辑"
+    },
+    {
+      "style_id": "3",
+      "text": "2.4 总体研究框架与章节衔接"
+    },
+    {
+      "style_id": "3",
+      "text": "2.5 本章小结"
+    }
+  ],
+  "figure_placeholders": [
+    "[图2-1 插入位置：理论基础、分析对象与研究任务的对应关系。]",
+    "[图2-2 插入位置：智能建造关键技术识别与发展研判总体研究框架。]"
+  ],
+  "pending_sources": [
+    "[待补充：文献[13-15]的完整条目及定义对应原文。]",
+    "[待补充：文献[41]的完整条目与原文；本节其他理论解释据纪亚琨（2023）的二手梳理，原始理论文献及统一引文编号待补充。]"
+  ],
+  "forbidden_words": [],
+  "body_bullets": [],
+  "text_match": true,
+  "original_styles_and_section_preserved": true,
+  "baseline_files_unchanged": true,
+  "soffice_available": false,
+  "visual_qa_performed": false
+}

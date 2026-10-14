@@ -1,0 +1,46 @@
+{
+  "han_characters": 8201,
+  "headings": [
+    "# 第1章 绪论",
+    "## 1.1 研究背景",
+    "## 1.2 研究问题与研究意义",
+    "## 1.3 国内外研究现状",
+    "### 1.3.1 智能建造关键技术研究现状",
+    "### 1.3.2 基于专利分析的关键技术识别研究现状",
+    "### 1.3.3 基于动态演化的技术预测研究现状",
+    "### 1.3.4 大语言模型辅助技术预测研究现状",
+    "### 1.3.5 研究述评",
+    "## 1.4 研究内容与研究方法",
+    "## 1.5 技术路线与论文结构"
+  ],
+  "word_heading_count": 11,
+  "paragraphs": 54,
+  "missing_original_citation_numbers": [
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "authorized_removed_GNN_citations": [
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "missing_background_numbers": [],
+  "pending_evidence_markers": 18,
+  "figure_placeholders": [
+    "[图1-1 插入位置：建筑业增加值及其占国内生产总值的比例。数据来源与统计口径待核实。]",
+    "[图1-2 插入位置：中国工程科技2035技术预见的思路和流程设计。原图来源及转载标注待补充。]",
+    "[图1-3 插入位置：智能建造关键技术识别与发展研判技术路线图。图中区分已开展的分析、当前大模型链路与RAG方案设计。]"
+  ],
+  "prohibited_words": [],
+  "styles_preserved": true,
+  "page_settings_preserved": true,
+  "docx_text_equals_markdown": true,
+  "original_sha256": "91c42978428eb0256004d661ea5472b9c4481d7c22811940e80226dc7a09a9aa",
+  "render_available": false,
+  "visual_qa": "not_performed_missing_LibreOffice"
+}

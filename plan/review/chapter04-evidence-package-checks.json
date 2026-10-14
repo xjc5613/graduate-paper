@@ -1,0 +1,9 @@
+{
+  "topic_records": 9,
+  "table_node_records": 30,
+  "candidate_directions": 6,
+  "candidate_stage_records": 14,
+  "source_values_match": true,
+  "missing_fields_preserved": true,
+  "novel_model_runs": false
+}

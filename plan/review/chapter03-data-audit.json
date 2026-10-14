@@ -1,0 +1,18 @@
+{
+  "software_patents": 14.71481606479919,
+  "bim_papers": 32.79076649896419,
+  "iot_patents": 2.1093486331420856,
+  "component_patents": 32.43334458319271,
+  "prefab_papers": 12.69606392423794,
+  "machinery_papers": 11.837821840781295,
+  "bigdata_patents": 7.559905501181236,
+  "applicant_sum": 5926,
+  "unclear_stage_sum": 5861,
+  "fit_relative_lower": true,
+  "figure_patent_total": 5926,
+  "figure_literature_total": 6758,
+  "stage_2010_2013": 65,
+  "stage_2014_2019": 1085,
+  "stage_2020_2025": 4776,
+  "figure_inspection": "原图4-1/2数字转录，非底层原始记录；原图4-10为年度曲线含附加衰退；原图4-4小类别比例与原正文有冲突。"
+}

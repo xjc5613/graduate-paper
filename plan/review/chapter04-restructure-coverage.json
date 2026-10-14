@@ -1,0 +1,22 @@
+{
+  "headings_match_outline": true,
+  "key_source_coverage": true,
+  "source_table_ids": [
+    13,
+    14,
+    15,
+    12,
+    16
+  ],
+  "source_equations": [
+    209,
+    210,
+    212,
+    214
+  ],
+  "figure_count": 7,
+  "contamination_check": true,
+  "numeric_tokens_missing": [
+    "4.7"
+  ]
+}

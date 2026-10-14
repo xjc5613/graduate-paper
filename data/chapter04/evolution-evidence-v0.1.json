@@ -1,0 +1,1577 @@
+{
+  "schema_version": "0.1",
+  "created_date": "2026-10-13",
+  "status": "partial_reported_evidence_not_complete_dynamic_analysis",
+  "purpose": "第4章已有证据组织及第5章输入准备；缺项保留null，不补造动态结果",
+  "data_cutoff_as_reported": "2025-10-01",
+  "cutoff_note": "该日期为样本检索截止日，不等于所有方法说明及整理记录在当日已可获得",
+  "sample_counts_as_reported": {
+    "patents": 5926,
+    "topic_input_patents": 926,
+    "topics": 9
+  },
+  "sample_linkage_status": "926条输入与总样本/主题的逐项映射待核实",
+  "reported_clustering_evaluation": {
+    "evidence_id": "M01",
+    "default": {
+      "silhouette": 0.415,
+      "calinski_harabasz": 1245.7
+    },
+    "reported_optimized": {
+      "silhouette": 0.682,
+      "calinski_harabasz": 2896.3
+    },
+    "source": {
+      "path": "refs/source-extracts/chapter04-original.txt",
+      "paragraph": "0248"
+    },
+    "status": "reported_only_comparability_and_repeated_runs_unverified"
+  },
+  "stages": [
+    {
+      "id": "S1",
+      "years": [
+        2010,
+        2014
+      ]
+    },
+    {
+      "id": "S2",
+      "years": [
+        2015,
+        2019
+      ]
+    },
+    {
+      "id": "S3",
+      "years": [
+        2020,
+        2025
+      ],
+      "partial_final_year": true
+    }
+  ],
+  "stage_note": "网络观察窗口；不等同于已拟合的生命周期拐点或单项技术成熟阶段",
+  "sources": [
+    {
+      "path": "论文保留初版-基于动态演化的智能建造领域关键技术识别及预测_副本3.docx",
+      "sha256": "91c42978428eb0256004d661ea5472b9c4481d7c22811940e80226dc7a09a9aa"
+    },
+    {
+      "path": "refs/source-extracts/chapter04-tables.json",
+      "sha256": "f37442278a50f9e0314d0746eb9ad64d7269585898724e51df9619ec2ceb7262"
+    },
+    {
+      "path": "refs/source-extracts/chapter04-original.txt",
+      "sha256": "6f973b55e59728a38c252e6705248295badc96fd2441c2c556a1f0a0316ac8cf"
+    },
+    {
+      "path": "refs/source-extracts/chapter04-figures/source-paragraph-262.png",
+      "sha256": "6889b3a4d7ba23f9aebef19131564c3bd83ec63cf7ccb97b407d430201805b85"
+    },
+    {
+      "path": "refs/source-extracts/chapter04-figures/source-paragraph-269.png",
+      "sha256": "c7ccbb33539cb884fb39f9b90bf447743df1793743bde3364780f1c8c42740a8"
+    },
+    {
+      "path": "plan/review/chapter04-table-crosscheck.json",
+      "sha256": "849e10e6bad72e255bdef8f5b7601d0fe57ad493a10a018440a333f267b58a87"
+    },
+    {
+      "path": "tables/chapter04-network-reported-metrics.json",
+      "sha256": "2aa627825ffb0a160d1b66e31e022ae2f355362bcbca5718283d7458467cea14"
+    }
+  ],
+  "network_observations": [
+    {
+      "evidence_id": "N1-B29C067",
+      "stage_id": "S1",
+      "ipc": "B29C067",
+      "values_as_reported": {
+        "degree": "0.0405",
+        "betweenness": "0.0296",
+        "closeness": "0.1970",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 2
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-C08F220",
+      "stage_id": "S1",
+      "ipc": "C08F220",
+      "values_as_reported": {
+        "degree": "0.0270",
+        "betweenness": "0.0000",
+        "closeness": "0.1481",
+        "eccentricity": "7"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 3
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-E04B001",
+      "stage_id": "S1",
+      "ipc": "E04B001",
+      "values_as_reported": {
+        "degree": "0.0811",
+        "betweenness": "0.1238",
+        "closeness": "0.2337",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 4
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-E04C003",
+      "stage_id": "S1",
+      "ipc": "E04C003",
+      "values_as_reported": {
+        "degree": "0.0270",
+        "betweenness": "0.0000",
+        "closeness": "0.1954",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 5
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-E04B002",
+      "stage_id": "S1",
+      "ipc": "E04B002",
+      "values_as_reported": {
+        "degree": "0.1216",
+        "betweenness": "0.1411",
+        "closeness": "0.2591",
+        "eccentricity": "4"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 6
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-B28B001",
+      "stage_id": "S1",
+      "ipc": "B28B001",
+      "values_as_reported": {
+        "degree": "0.0541",
+        "betweenness": "0.0001",
+        "closeness": "0.1834",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 7
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-B25J011",
+      "stage_id": "S1",
+      "ipc": "B25J011",
+      "values_as_reported": {
+        "degree": "0.0405",
+        "betweenness": "0.0000",
+        "closeness": "0.1568",
+        "eccentricity": "7"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 9
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-G01B011",
+      "stage_id": "S1",
+      "ipc": "G01B011",
+      "values_as_reported": {
+        "degree": "0.0270",
+        "betweenness": "0.0000",
+        "closeness": "0.1568",
+        "eccentricity": "7"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 10
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "missing_in_supplement"
+    },
+    {
+      "evidence_id": "N1-E04G003",
+      "stage_id": "S1",
+      "ipc": "E04G003",
+      "values_as_reported": {
+        "degree": "0.0270",
+        "betweenness": "0.0000",
+        "closeness": "0.1922",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 11
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N1-E04G021",
+      "stage_id": "S1",
+      "ipc": "E04G021",
+      "values_as_reported": {
+        "degree": "0.1757",
+        "betweenness": "0.2140",
+        "closeness": "0.2838",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 13,
+        "row_including_header": 12
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-B33Y070",
+      "stage_id": "S2",
+      "ipc": "B33Y070",
+      "values_as_reported": {
+        "degree": "0.1257",
+        "betweenness": "0.0349",
+        "closeness": "0.3394",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 2
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-B25J011",
+      "stage_id": "S2",
+      "ipc": "B25J011",
+      "values_as_reported": {
+        "degree": "0.0832",
+        "betweenness": "0.0599",
+        "closeness": "0.3448",
+        "eccentricity": "4"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 3
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-E04B001",
+      "stage_id": "S2",
+      "ipc": "E04B001",
+      "values_as_reported": {
+        "degree": "0.1779",
+        "betweenness": "0.1164",
+        "closeness": "0.3905",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 4
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-G06F030",
+      "stage_id": "S2",
+      "ipc": "G06F030",
+      "values_as_reported": {
+        "degree": "0.0967",
+        "betweenness": "0.0533",
+        "closeness": "0.3716",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 5
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-E04B002",
+      "stage_id": "S2",
+      "ipc": "E04B002",
+      "values_as_reported": {
+        "degree": "0.1006",
+        "betweenness": "0.0239",
+        "closeness": "0.3554",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 6
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-G06N003",
+      "stage_id": "S2",
+      "ipc": "G06N003",
+      "values_as_reported": {
+        "degree": "0.0232",
+        "betweenness": "0.0070",
+        "closeness": "0.2956",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 7
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-G01B011",
+      "stage_id": "S2",
+      "ipc": "G01B011",
+      "values_as_reported": {
+        "degree": "0.0077",
+        "betweenness": "0.0006",
+        "closeness": "0.2963",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 9
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-G01S017",
+      "stage_id": "S2",
+      "ipc": "G01S017",
+      "values_as_reported": {
+        "degree": "0.0193",
+        "betweenness": "0.0115",
+        "closeness": "0.2594",
+        "eccentricity": "6"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 10
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-B21D003",
+      "stage_id": "S2",
+      "ipc": "B21D003",
+      "values_as_reported": {
+        "degree": "0.0019",
+        "betweenness": "0.0000",
+        "closeness": "0.2698",
+        "eccentricity": "7"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 11
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N2-C04B007",
+      "stage_id": "S2",
+      "ipc": "C04B007",
+      "values_as_reported": {
+        "degree": "0.0039",
+        "betweenness": "0.0001",
+        "closeness": "0.2467",
+        "eccentricity": "7"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 14,
+        "row_including_header": 12
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-B33Y070",
+      "stage_id": "S3",
+      "ipc": "B33Y070",
+      "values_as_reported": {
+        "degree": "0.0951",
+        "betweenness": "0.0532",
+        "closeness": "0.3811",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 2
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-B25J011",
+      "stage_id": "S3",
+      "ipc": "B25J011",
+      "values_as_reported": {
+        "degree": "0.1462",
+        "betweenness": "0.0648",
+        "closeness": "0.4511",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 3
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-C04B028",
+      "stage_id": "S3",
+      "ipc": "C04B028",
+      "values_as_reported": {
+        "degree": "0.0491",
+        "betweenness": "0.0073",
+        "closeness": "0.3742",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 4
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-B28B001",
+      "stage_id": "S3",
+      "ipc": "B28B001",
+      "values_as_reported": {
+        "degree": "0.0593",
+        "betweenness": "0.0131",
+        "closeness": "0.3982",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 5
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-B28B013",
+      "stage_id": "S3",
+      "ipc": "B28B013",
+      "values_as_reported": {
+        "degree": "0.0204",
+        "betweenness": "0.0009",
+        "closeness": "0.3456",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 6
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-G01B011",
+      "stage_id": "S3",
+      "ipc": "G01B011",
+      "values_as_reported": {
+        "degree": "0.0746",
+        "betweenness": "0.0195",
+        "closeness": "0.4191",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 7
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-G01S017",
+      "stage_id": "S3",
+      "ipc": "G01S017",
+      "values_as_reported": {
+        "degree": "0.0429",
+        "betweenness": "0.0041",
+        "closeness": "0.3746",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 9
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-E03B009",
+      "stage_id": "S3",
+      "ipc": "E03B009",
+      "values_as_reported": {
+        "degree": "0.0082",
+        "betweenness": "0.0001",
+        "closeness": "0.3133",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 10
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-G06N003",
+      "stage_id": "S3",
+      "ipc": "G06N003",
+      "values_as_reported": {
+        "degree": "0.1166",
+        "betweenness": "0.0237",
+        "closeness": "0.4257",
+        "eccentricity": "5"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 11
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    },
+    {
+      "evidence_id": "N3-G06F030",
+      "stage_id": "S3",
+      "ipc": "G06F030",
+      "values_as_reported": {
+        "degree": "0.1943",
+        "betweenness": "0.0745",
+        "closeness": "0.4782",
+        "eccentricity": "4"
+      },
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 15,
+        "row_including_header": 12
+      },
+      "status": "reported_value_not_recomputed",
+      "supplement_crosscheck": "matched_reported_supplement"
+    }
+  ],
+  "static_theme_relations": [
+    {
+      "evidence_id": "H01",
+      "topic_ids": [
+        "T02",
+        "T05",
+        "T09"
+      ],
+      "cut_height": 1.2,
+      "meaning": "图示截断高度下的语义子组，非跨阶段演化或工程协同实测",
+      "source": {
+        "path": "refs/source-extracts/chapter04-figures/source-paragraph-269.png",
+        "locator": "原层次聚类图"
+      }
+    },
+    {
+      "evidence_id": "H02",
+      "topic_ids": [
+        "T04",
+        "T07"
+      ],
+      "cut_height": 1.2,
+      "meaning": "图示截断高度下的语义子组，非跨阶段演化或工程协同实测",
+      "source": {
+        "path": "refs/source-extracts/chapter04-figures/source-paragraph-269.png",
+        "locator": "原层次聚类图"
+      }
+    }
+  ],
+  "technology_records": [
+    {
+      "technology_id": "T01",
+      "source_topic_id": "Topic 1",
+      "name": "多专业协同平台",
+      "definition": "围绕同一工程对象组织多专业模型、数据与业务协同的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0252"
+      },
+      "keywords": [
+        "BIM",
+        "协同",
+        "平台",
+        "专业",
+        "综合"
+      ],
+      "reported_example": "大型公共建筑BIM协同平台",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q01",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 2
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T02",
+      "source_topic_id": "Topic 2",
+      "name": "参数化与生成式设计",
+      "definition": "通过参数、规则、目标和约束组织设计方案生成与比较的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0253"
+      },
+      "keywords": [
+        "参数化",
+        "优化",
+        "算法",
+        "设计",
+        "约束"
+      ],
+      "reported_example": "复杂建筑形态参数化设计",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q02",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 3
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [
+        {
+          "ipc": "G06F030",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N2-G06F030",
+            "N3-G06F030"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        },
+        {
+          "ipc": "G06N003",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N2-G06N003",
+            "N3-G06N003"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        }
+      ],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [
+        "H01"
+      ],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T03",
+      "source_topic_id": "Topic 3",
+      "name": "机器人集群协同",
+      "definition": "将机器人机构、驱动、移动与多设备共同作业组织相结合的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0254"
+      },
+      "keywords": [
+        "机器人",
+        "机构",
+        "驱动",
+        "移动",
+        "协同"
+      ],
+      "reported_example": "建筑幕墙安装机器人集群",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q03",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 4
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [
+        {
+          "ipc": "B25J011",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N1-B25J011",
+            "N2-B25J011",
+            "N3-B25J011"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        }
+      ],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T04",
+      "source_topic_id": "Topic 4",
+      "name": "施工全过程数字孪生",
+      "definition": "将施工现场状态感知与数字表达相联系，用于过程监测和分析的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0255"
+      },
+      "keywords": [
+        "监测",
+        "控制",
+        "调节",
+        "固定"
+      ],
+      "reported_example": "盾构机施工数字化监控系统",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q04",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 5
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [
+        {
+          "ipc": "G01B011",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N1-G01B011",
+            "N2-G01B011",
+            "N3-G01B011"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        }
+      ],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [
+        "H02"
+      ],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T05",
+      "source_topic_id": "Topic 5",
+      "name": "智能规范审查",
+      "definition": "将规范条件与工程设计信息建立可处理对应，以辅助核查的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0256"
+      },
+      "keywords": [
+        "信息",
+        "数据",
+        "审查",
+        "图像",
+        "目标"
+      ],
+      "reported_example": "建筑施工图智能审查系统",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q05",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 6
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [
+        "H01"
+      ],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T06",
+      "source_topic_id": "Topic 6",
+      "name": "建筑工程大模型技术",
+      "definition": "将行业知识与语言或多模态信息处理结合，用于工程知识和任务辅助的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0257"
+      },
+      "keywords": [
+        "大模型",
+        "机器学习",
+        "规划",
+        "平面"
+      ],
+      "reported_example": "工艺规划辅助大模型技术",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q06",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 7
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [
+        {
+          "ipc": "G06N003",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N2-G06N003",
+            "N3-G06N003"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        }
+      ],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T07",
+      "source_topic_id": "Topic 7",
+      "name": "装配式建筑技术",
+      "definition": "通过预制构件及连接方式衔接设计、工厂制造与现场安装的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0258"
+      },
+      "keywords": [
+        "预制",
+        "构件",
+        "安装",
+        "标准化",
+        "生产"
+      ],
+      "reported_example": "钢结构装配式建筑技术",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q07",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 8
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [
+        "H02"
+      ],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T08",
+      "source_topic_id": "Topic 8",
+      "name": "建筑规模增材制造",
+      "definition": "以材料逐层堆积形成建筑构件，关联几何、工艺及材料性能的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0259"
+      },
+      "keywords": [
+        "打印",
+        "混凝土",
+        "材料",
+        "结构",
+        "成型"
+      ],
+      "reported_example": "混凝土3D打印建筑技术",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q08",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 9
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [
+        {
+          "ipc": "B33Y070",
+          "status": "functional_interpretation_only",
+          "network_evidence_ids": [
+            "N2-B33Y070",
+            "N3-B33Y070"
+          ],
+          "allowed_use": "提出结构与工程内涵的对照问题；不得当作该主题已验证的节点指标",
+          "validation_needed": "逐专利IPC—年份—主题对应表"
+        }
+      ],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    },
+    {
+      "technology_id": "T09",
+      "source_topic_id": "Topic 9",
+      "name": "模块化与可重构设计",
+      "definition": "以模块及接口关系组织建筑空间的组装、拆卸与功能调整的技术方向。",
+      "definition_status": "scope_summary_not_verified_implementation",
+      "definition_source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0260"
+      },
+      "keywords": [
+        "模块",
+        "重构",
+        "混合",
+        "分析"
+      ],
+      "reported_example": "模块化应急避难所技术",
+      "example_status": "source_technical_description_not_verified_deployment",
+      "topic_evidence_id": "Q09",
+      "source": {
+        "path": "refs/source-extracts/chapter04-tables.json",
+        "source_table": 16,
+        "row_including_header": 10
+      },
+      "classification": "reported_key_technology_theme",
+      "patent_ids": null,
+      "verified_ipc_mapping": null,
+      "candidate_context_links": [],
+      "field_stage_context": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "reported_topic_corpus_scope": [
+        "S2",
+        "S3"
+      ],
+      "technology_specific_lifecycle": null,
+      "stage_topic_counts": null,
+      "stage_topic_strength": null,
+      "temporal_semantic_change": null,
+      "observed_bottleneck_evidence": null,
+      "static_relation_evidence_ids": [
+        "H01"
+      ],
+      "allowed_claims": [
+        "原报告将相关文本归纳为该主题，并给出所列关键词和典型技术表述"
+      ],
+      "unsupported_claims": [
+        "主题在特定阶段快速增长",
+        "已经实现工程协同",
+        "已确定技术成熟度或未来突破年份",
+        "网络节点指标等于主题指标"
+      ],
+      "missing_materials": [
+        "逐专利编号、年份及主题映射",
+        "主题样本量与代表文本",
+        "动态主题分析及参数记录",
+        "实证瓶颈资料与单项生命周期依据"
+      ]
+    }
+  ],
+  "potential_technology_candidates": [
+    {
+      "candidate_id": "C01",
+      "ipc": "B28C007",
+      "application_label_from_source": "混凝土智能化搅拌与配送控制",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0239"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S1",
+          "metrics": {
+            "degree": 0.0135,
+            "betweenness": 0.0,
+            "closeness": 0.0135,
+            "eccentricity": 1.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 48
+          }
+        },
+        {
+          "stage_id": "S2",
+          "metrics": {
+            "degree": 0.0097,
+            "betweenness": 0.0004,
+            "closeness": 0.2498,
+            "eccentricity": 7.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 189
+          }
+        },
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.0164,
+            "betweenness": 0.0006,
+            "closeness": 0.3449,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 624
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    },
+    {
+      "candidate_id": "C02",
+      "ipc": "G06Q050",
+      "application_label_from_source": "建造过程数字化管理平台",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0240"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S1",
+          "metrics": {
+            "degree": 0.027,
+            "betweenness": 0.0152,
+            "closeness": 0.1548,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 52
+          }
+        },
+        {
+          "stage_id": "S2",
+          "metrics": {
+            "degree": 0.0832,
+            "betweenness": 0.0212,
+            "closeness": 0.3522,
+            "eccentricity": 6.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 383
+          }
+        },
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.1524,
+            "betweenness": 0.0407,
+            "closeness": 0.4437,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 752
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    },
+    {
+      "candidate_id": "C03",
+      "ipc": "B66C023",
+      "application_label_from_source": "智能塔吊与吊装机器人",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0241"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S1",
+          "metrics": {
+            "degree": 0.0541,
+            "betweenness": 0.0831,
+            "closeness": 0.202,
+            "eccentricity": 6.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 70
+          }
+        },
+        {
+          "stage_id": "S2",
+          "metrics": {
+            "degree": 0.0464,
+            "betweenness": 0.0269,
+            "closeness": 0.3317,
+            "eccentricity": 6.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 461
+          }
+        },
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.0583,
+            "betweenness": 0.0259,
+            "closeness": 0.4065,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 982
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    },
+    {
+      "candidate_id": "C04",
+      "ipc": "C08L097",
+      "application_label_from_source": "生物质纤维增强可降解建材",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0242"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S2",
+          "metrics": {
+            "degree": 0.0097,
+            "betweenness": 0.0003,
+            "closeness": 0.2193,
+            "eccentricity": 8.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 83
+          }
+        },
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.0061,
+            "betweenness": 0.0001,
+            "closeness": 0.2716,
+            "eccentricity": 6.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 748
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    },
+    {
+      "candidate_id": "C05",
+      "ipc": "G16Y010",
+      "application_label_from_source": "建造物联网通用数据接口标准",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0243"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.0245,
+            "betweenness": 0.0002,
+            "closeness": 0.3462,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 1247
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    },
+    {
+      "candidate_id": "C06",
+      "ipc": "E02D033",
+      "application_label_from_source": "地基智能监测与灾害预警",
+      "label_note": "原稿的智能建造应用解释，非IPC官方完整定义",
+      "source": {
+        "path": "refs/source-extracts/chapter04-original.txt",
+        "paragraph": "0244"
+      },
+      "network_observations": [
+        {
+          "stage_id": "S2",
+          "metrics": {
+            "degree": 0.0019,
+            "betweenness": 0.0,
+            "closeness": 0.1926,
+            "eccentricity": 8.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 380
+          }
+        },
+        {
+          "stage_id": "S3",
+          "metrics": {
+            "degree": 0.0337,
+            "betweenness": 0.0076,
+            "closeness": 0.3761,
+            "eccentricity": 5.0
+          },
+          "source": {
+            "path": "tables/chapter04-network-reported-metrics.json",
+            "row_index_zero_based": 693
+          }
+        }
+      ],
+      "verified_topic_mapping": null,
+      "status": "candidate_only_not_validated_future_key_technology",
+      "unsupported_claims": [
+        "将于3—5年内跃迁",
+        "已实现规模应用",
+        "具有标准必要专利地位"
+      ]
+    }
+  ],
+  "global_limits": [
+    "未重新运行网络构建或BERTopic，报告值保留原精度",
+    "主题映射未经逐专利验证，候选功能联系不作定量映射",
+    "阈值口径、连通分量及主题输入须核实",
+    "静态层次关系不能证明技术协同效果，未实施独立稳健性与外部验证",
+    "不含各技术的概率、TRL或已验证预测成绩"
+  ]
+}

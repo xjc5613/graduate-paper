@@ -1,0 +1,38 @@
+{
+  "outline_headings": 23,
+  "topics_preserved": 9,
+  "candidate_directions_preserved": 6,
+  "report_technology_names_preserved": [
+    "多专业协同平台技术",
+    "参数化与生成式设计技术",
+    "多场耦合工程分析技术",
+    "模块化与可重构性设计技术",
+    "智能规范审查技术",
+    "规划设计辅助大模型",
+    "设计数据确权技术",
+    "实时数据驱动的设计优化技术",
+    "虚实融合引导施工技术",
+    "施工全过程数字孪生技术",
+    "多机/机器人群协同施工技术",
+    "施工安全智能监控与预警技术",
+    "施工质量智能检测与评估技术",
+    "建筑规模增材制造与3D打印技术",
+    "废弃物智能分类与资源回收技术",
+    "施工碳排放智能监测与控制技术",
+    "施工大模型智能助手系统",
+    "工程数据可信存证与溯源技术",
+    "运行全域感知技术"
+  ],
+  "four_scenarios_preserved": true,
+  "three_periods_preserved": true,
+  "explicit_evidence_ids_verified": [
+    "N1-B25J011",
+    "N2-B25J011",
+    "N2-B33Y070",
+    "N3-B25J011",
+    "N3-B33Y070"
+  ],
+  "no_rag_pipeline": true,
+  "contamination_check_passed": true,
+  "new_model_runs": false
+}

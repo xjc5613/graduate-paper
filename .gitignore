@@ -1,0 +1,13 @@
+# macOS metadata
+.DS_Store
+
+# Microsoft Office temporary lock files
+.~*.docx
+~$*.docx
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+

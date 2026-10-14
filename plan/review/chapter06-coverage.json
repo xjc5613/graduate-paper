@@ -1,0 +1,31 @@
+{
+  "sections": [
+    "6.1",
+    "6.2",
+    "6.3",
+    "6.4"
+  ],
+  "topics": {
+    "多专业协同平台": true,
+    "参数化与生成式设计": true,
+    "机器人集群协同": true,
+    "施工全过程数字孪生": true,
+    "智能规范审查": true,
+    "建筑工程大模型技术": true,
+    "装配式建筑技术": true,
+    "建筑规模增材制造": true,
+    "模块化与可重构设计": true
+  },
+  "key_reported_values_in_prior_chapters": {
+    "5926": true,
+    "6758": true,
+    "926": true,
+    "0.1257": true,
+    "0.0951": true,
+    "0.0349": true,
+    "0.0532": true
+  },
+  "no_new_numeric_citations": true,
+  "no_authoring_instructions": true,
+  "no_unsubstantiated_novelty_claims": true
+}
