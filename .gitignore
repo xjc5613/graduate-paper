@@ -11,3 +11,6 @@ __pycache__/
 .venv/
 venv/
 
+# Local-only document deliverables and authorization QR
+output/private/
+feishu-auth-qr.png
