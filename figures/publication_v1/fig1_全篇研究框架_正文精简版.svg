@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="734.4pt" viewBox="0 0 518.4 734.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T15:39:30.763650</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 734.4 
+L 518.4 734.4 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 30.24 112.32 
+L 488.16 112.32 
+Q 493.92 112.32 493.92 106.56 
+L 493.92 54.72 
+Q 493.92 48.96 488.16 48.96 
+L 30.24 48.96 
+Q 24.48 48.96 24.48 54.72 
+L 24.48 106.56 
+Q 24.48 112.32 30.24 112.32 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 259.2 114.602695 
+Q 259.2 120.962908 259.2 126.149186 
+" clip-path="url(#p52bc65a740)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 261.4 121.749186 
+L 259.2 126.149186 
+L 257 121.749186 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 30.24 223.92 
+L 488.16 223.92 
+Q 493.92 223.92 493.92 218.16 
+L 493.92 137.52 
+Q 493.92 131.76 488.16 131.76 
+L 30.24 131.76 
+Q 24.48 131.76 24.48 137.52 
+L 24.48 218.16 
+Q 24.48 223.92 30.24 223.92 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 259.2 226.202695 
+Q 259.2 232.562908 259.2 237.749186 
+" clip-path="url(#p52bc65a740)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 261.4 233.349186 
+L 259.2 237.749186 
+L 257 233.349186 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 30.24 385.2 
+L 488.16 385.2 
+Q 493.92 385.2 493.92 379.44 
+L 493.92 249.12 
+Q 493.92 243.36 488.16 243.36 
+L 30.24 243.36 
+Q 24.48 243.36 24.48 249.12 
+L 24.48 379.44 
+Q 24.48 385.2 30.24 385.2 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #eff7f5; stroke: #9bcabd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 259.2 387.482695 
+Q 259.2 393.842908 259.2 399.029186 
+" clip-path="url(#p52bc65a740)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 261.4 394.629186 
+L 259.2 399.029186 
+L 257 394.629186 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 30.24 599.76 
+L 488.16 599.76 
+Q 493.92 599.76 493.92 594 
+L 493.92 410.4 
+Q 493.92 404.64 488.16 404.64 
+L 30.24 404.64 
+Q 24.48 404.64 24.48 410.4 
+L 24.48 594 
+Q 24.48 599.76 30.24 599.76 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #fbf5ec; stroke: #dec49f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 259.2 602.042695 
+Q 259.2 608.402908 259.2 613.589186 
+" clip-path="url(#p52bc65a740)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 261.4 609.189186 
+L 259.2 613.589186 
+L 257 609.189186 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 30.24 682.56 
+L 488.16 682.56 
+Q 493.92 682.56 493.92 676.8 
+L 493.92 624.96 
+Q 493.92 619.2 488.16 619.2 
+L 30.24 619.2 
+Q 24.48 619.2 24.48 624.96 
+L 24.48 676.8 
+Q 24.48 682.56 30.24 682.56 
+z
+" clip-path="url(#p52bc65a740)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #25364a; font: 700 14px 'Heiti TC'; text-anchor: middle" x="259.2" y="23.76" transform="rotate(-0 259.2 23.76)">智能建造关键技术识别与发展研判框架</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="259.2" y="71.234414" transform="rotate(-0 259.2 71.234414)">第1—2章  研究问题与理论基础</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="259.2" y="98.154141" transform="rotate(-0 259.2 98.154141)">技术范围与研究问题｜生命周期、知识组合与社会网络</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="259.2" y="154.118906" transform="rotate(-0 259.2 154.118906)">第3章  发展态势与生命周期阶段分析</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(155.7 188.533863)">专利与文献 → 总体态势 → 生命周期解释与阶段比较</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(154.927969 202.174418)">观察窗口：2010—2014 / 2015—2019 / 2020—2025</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="259.2" y="265.639336" transform="rotate(-0 259.2 265.639336)">第4章  关键技术识别与动态演化分析</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(168.610781 305.149746)">分阶段IPC共现网络 → 节点影响力及跨期变化</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(254.7 318.374965)">↓</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(169.978359 331.778848)">关键节点与专利文本映射 → BERTopic九主题</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(254.7 345.004066)">↓</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(162.45 358.303535)">演化规律、主题关联及来源边界 → 研究证据汇总</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="259.2" y="426.941484" transform="rotate(-0 259.2 426.941484)">第5章  证据约束下的多智能体发展研判</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(160.2 472.999219)">证据组织与量化分析 → 演化分析 → 发展命题生成</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(254.7 486.224438)">↓</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(175.473281 499.47982)">独立双审查：反向审查 + 工程审查 → 裁决</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(254.7 512.705039)">↓</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(179.050078 526.584586)">接受 / 局部修订与有限复审 / 降级 / 暂缓</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(259.2 539.809805)"/>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(149.468906 553.213687)">LangGraph + Harness：校验、日志、版本及终止条件</text>
+    <text style="fill: #25364a; font: 9px 'Heiti TC'" transform="translate(173.7 566.438906)">发展路径、证据一致性评价与技术发展建议</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="259.2" y="641.474414" transform="rotate(-0 259.2 641.474414)">第6章  结论与展望</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="259.2" y="668.354062" transform="rotate(-0 259.2 668.354062)">回应研究问题 → 总结贡献与局限 → 后续研究方向</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #7d8794; font: 8px 'Heiti TC'; text-anchor: start" x="25.2" y="711.36" transform="rotate(-0 25.2 711.36)">注：框架表示研究组织；未来路径为条件性判断，评价实测范围见正文。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p52bc65a740">
+   <rect x="0" y="0" width="518.4" height="734.4"/>
+  </clipPath>
+ </defs>
+</svg>

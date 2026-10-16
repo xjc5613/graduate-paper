@@ -1,0 +1,123 @@
+{
+  "figures": {
+    "fig4_1_IPC分类号分布": {
+      "size": [
+        5040,
+        2025
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "fig4_5_主题关键词热力图": {
+      "size": [
+        5940,
+        3060
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "fig4_6_主题层次聚类_近似重绘": {
+      "size": [
+        4860,
+        2790
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "supp_关键IPC节点演化轨迹": {
+      "size": [
+        5175,
+        2925
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "supp_阶段网络规模比较": {
+      "size": [
+        3375,
+        2205
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "fig1_全篇研究框架流程图": {
+      "size": [
+        5400,
+        6750
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    },
+    "fig1_全篇研究框架_正文精简版": {
+      "size": [
+        3240,
+        4590
+      ],
+      "dpi": [
+        450.0118,
+        450.0118
+      ],
+      "svg_valid": true,
+      "pdf_pages": 1
+    }
+  },
+  "sources": {
+    "source-paragraph-231.png": {
+      "sha256": "6f8d11f96a3a51c9bbdaabde65111f66c2c90a781428e756049570530e48b0f0",
+      "docx_media": "word/media/image23.png"
+    },
+    "source-paragraph-225.png": {
+      "sha256": "533be4d6806611ca9744ffdd1feadbffc0843f58f247ac3442990060c43d5ed1",
+      "docx_media": "word/media/image21.png"
+    },
+    "source-paragraph-269.png": {
+      "sha256": "c7ccbb33539cb884fb39f9b90bf447743df1793743bde3364780f1c8c42740a8",
+      "docx_media": "word/media/image25.png"
+    },
+    "source-paragraph-262.png": {
+      "sha256": "6889b3a4d7ba23f9aebef19131564c3bd83ec63cf7ccb97b407d430201805b85",
+      "docx_media": "word/media/image24.png"
+    },
+    "source-paragraph-219.jpeg": {
+      "sha256": "ef01ee9b90fdcb2a07fd2c70486fac75d1f9aa080d040e46e13268598c0f3ad3",
+      "docx_media": "word/media/image20.jpeg"
+    },
+    "source-paragraph-228.png": {
+      "sha256": "52184387d1c2b868995025fa959e9cbba92173416431eb6e14fea6c9421cbd25",
+      "docx_media": "word/media/image22.png"
+    }
+  },
+  "network_redraw_completed": false,
+  "network_blocker": "original edge lists/layout not supplied",
+  "visual_review": "all seven PNGs inspected; detailed framework input arrow corrected",
+  "frequency_sum": 5916,
+  "heatmap_shape": [
+    9,
+    18
+  ],
+  "T5_0_18_column": "区块链"
+}

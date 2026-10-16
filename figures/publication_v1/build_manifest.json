@@ -1,0 +1,26 @@
+{
+  "figures": [
+    "fig4_1_IPC分类号分布",
+    "fig4_5_主题关键词热力图",
+    "fig4_6_主题层次聚类_近似重绘",
+    "supp_关键IPC节点演化轨迹",
+    "supp_阶段网络规模比较",
+    "fig1_全篇研究框架流程图",
+    "fig1_全篇研究框架_正文精简版"
+  ],
+  "dpi": 450,
+  "formats": [
+    "png",
+    "svg",
+    "pdf"
+  ],
+  "font": "/System/Library/Fonts/STHeiti Light.ttc",
+  "matplotlib": "3.9.4",
+  "data_notes": {
+    "frequency": "original visible count total 5916, manuscript 5926",
+    "heatmap": "rounded displayed values, not raw model matrix",
+    "dendrogram": "approximate digitization, original topology",
+    "network": "no edges inferred or invented",
+    "framework": "conceptual research organization"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "headings_match_confirmed_outline": true,
+  "headings_count": 18,
+  "all_11_source_table_blocks_unchanged": true,
+  "table_numbers_1_to_13": true,
+  "figure_slots_1_to_10": true,
+  "key_original_values_retained": true,
+  "stage_1_missing_labels_not_zero": true,
+  "applicant_stage_gap_disclosed": true,
+  "full_text_read_by_controller": true,
+  "stage_data_audit": "chapter03-v4-stage-checks.json"
+}

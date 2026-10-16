@@ -1,5 +1,12 @@
 # 第3章图源清单
 
+2026-10-16第三章v4：原年度图1/2、分布3/4、五词云5—9、生命周期10，仅留图位，不新增模拟图。原图年份/拟合口径的限制保留。
+
+
+## 2026-10-15 第五章结果图
+提供图保存在refs/agent-results-2026-10-15/figures，原件不改。正文预留5-1证据输入、5-2双审、5-3流程、5-4证据融合（用户figure_1）、5-5路线（用户figure_2）。不重新绘图或生成示意数据。图5-4 A含2025/2026估计、2026未经校准80%探索区间；B原图年份与第四章窗口冲突、未重算新网络，正文阶段编号引用并标待统一；C坐标和排名用历史值，面积含模型补充，不能加总为独立专利。图5-5 2027—2040目标条件性，RAG出现于被研究技术T6的发展路径而非本章方法。
+
+
 2026-10-14第4章现行图位：取消新增主题时间演化图，原六幅主图依次为图4-1—4-6，热图4-5、层次聚类树4-6。原表12两幅示意图仍留占位，四个源公式对象保留。不增加数据图。
 
 
@@ -27,3 +34,16 @@
 
 ## 第6章
 结论章以文字收束，不新增数据图或重复方法图，无图位需求。
+
+## 2026-10-16 第四章科研图及全篇框架图
+
+| Figure | Data file | Real/mock | Source | Script | Outputs |
+|---|---|---|---|---|---|
+| 图4-1分布 | publication_v1/data/fig4_1_visible_frequencies.csv | 原图数值转录 | 初版word/media/image20.jpeg | scripts/draw_publication_figures.py | publication_v1/fig4_1_* PNG/SVG/PDF |
+| 图4-5热力图 | publication_v1/data/fig4_5_displayed_weights.csv | 原图两位小数转录 | 初版word/media/image24.png | 同上 | publication_v1/fig4_5_* |
+| 图4-6层次图 | publication_v1/data/fig4_6_approximate_merges.csv | 原拓扑与近似高度，非新实验 | 初版word/media/image25.png | 同上 | publication_v1/fig4_6_* |
+| 节点轨迹补充图 | publication_v1/data/supp_selected_ipc_metrics.csv | 已报告指标 | refs/agent-results-2026-10-15/ipc_stage_metrics.csv | 同上 | publication_v1/supp_关键* |
+| 网络规模补充图 | publication_v1/data/supp_network_sizes.csv | 原表及原图标注 | 75/518/979及43/451/919 | 同上 | publication_v1/supp_阶段* |
+| 全篇框架两版 | plan/outline.md及当前章节 | 概念流程，非实验数据 | 当前第3—5章及总体目录 | 同上 | publication_v1/fig1_* |
+
+三张网络图因缺原边表未重绘，原图保存在publication_v1/source。未用合成边代替观测关系。发现图4-1频数合计5916与正文5926差10，热力图T5的0.18在区块链列而非虚拟现实。见图件说明。Python与Matplotlib现有环境可用，未安装额外环境；450 DPI PNG与SVG/PDF齐备，七图已视觉审阅并检验文件。

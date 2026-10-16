@@ -1,0 +1,12 @@
+{
+  "headings_match": true,
+  "headings_count": 24,
+  "tables_count": 7,
+  "score_table_exact_csv_match": true,
+  "forecast_table_exact_csv_match": true,
+  "nineteen_technologies_exact_old_table_match": true,
+  "nine_theme_roadmap": true,
+  "six_candidates_and_extreme_scenarios_preserved": true,
+  "figure_slots": 5,
+  "no_original_material_mutations": true
+}

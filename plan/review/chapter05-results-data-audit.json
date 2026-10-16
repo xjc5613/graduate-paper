@@ -1,0 +1,34 @@
+{
+  "manifest_entries_verified": 22,
+  "source_identity_vs_workspace": {
+    "original_inputs/manuscript.docx": true,
+    "original_inputs/topic_times.xlsx": true,
+    "original_inputs/ipc_network_results.docx": true
+  },
+  "labeled_records": 5789,
+  "unique_title_year": 5605,
+  "annual_count_mismatches": [],
+  "score_projection_mismatches_using_saved_nodes": [],
+  "stage_node_counts": {
+    "1": 75,
+    "2": 518,
+    "3": 979
+  },
+  "raw_slopes_before_clipping": {
+    "T1": 0.24055378965688648,
+    "T2": 0.3128598817429262,
+    "T3": 0.0725723087643542,
+    "T4": 0.3009280099435563,
+    "T5": 0.2049944177776367,
+    "T6": 0.5452807023721841,
+    "T7": -0.0014822609119140807,
+    "T8": 0.008532772782330363,
+    "T9": 0.08459799295353114
+  },
+  "counting_rule": "title+year within each theme, cross-theme overlap allowed",
+  "convergence": "preassigned constants, not computed from cluster distance matrix",
+  "ipc_topic_mapping": "preassigned functional mapping, not document-level membership",
+  "rank_tie_implementation": "ordinal ranks; equal values not averaged; transition input assembled from a set; rerun order sensitivity possible",
+  "partial_and_estimate_2025_not_added_together": true,
+  "formal_claim_audit_export_in_zip": false
+}

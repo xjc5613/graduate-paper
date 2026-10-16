@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1080pt" viewBox="0 0 864 1080" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T15:39:30.423367</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1080 
+L 864 1080 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 32.4 191.52 
+L 831.6 191.52 
+Q 838.8 191.52 838.8 184.32 
+L 838.8 92.88 
+Q 838.8 85.68 831.6 85.68 
+L 32.4 85.68 
+Q 25.2 85.68 25.2 92.88 
+L 25.2 184.32 
+Q 25.2 191.52 32.4 191.52 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #ffffff; stroke: #d9e2e8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 51.84 175.68 
+L 282.96 175.68 
+Q 288.72 175.68 288.72 169.92 
+L 288.72 129.6 
+Q 288.72 123.84 282.96 123.84 
+L 51.84 123.84 
+Q 46.08 123.84 46.08 129.6 
+L 46.08 169.92 
+Q 46.08 175.68 51.84 175.68 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 316.08 175.68 
+L 547.2 175.68 
+Q 552.96 175.68 552.96 169.92 
+L 552.96 129.6 
+Q 552.96 123.84 547.2 123.84 
+L 316.08 123.84 
+Q 310.32 123.84 310.32 129.6 
+L 310.32 169.92 
+Q 310.32 175.68 316.08 175.68 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 580.32 175.68 
+L 811.44 175.68 
+Q 817.2 175.68 817.2 169.92 
+L 817.2 129.6 
+Q 817.2 123.84 811.44 123.84 
+L 580.32 123.84 
+Q 574.56 123.84 574.56 129.6 
+L 574.56 169.92 
+Q 574.56 175.68 580.32 175.68 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 432 193.800938 
+Q 432 202.320964 432 209.667054 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 434.2 205.267054 
+L 432 209.667054 
+L 429.8 205.267054 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 32.4 364.32 
+L 831.6 364.32 
+Q 838.8 364.32 838.8 357.12 
+L 838.8 222.48 
+Q 838.8 215.28 831.6 215.28 
+L 32.4 215.28 
+Q 25.2 215.28 25.2 222.48 
+L 25.2 357.12 
+Q 25.2 364.32 32.4 364.32 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #ffffff; stroke: #d9e2e8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 51.84 306 
+L 257.76 306 
+Q 263.52 306 263.52 300.24 
+L 263.52 263.52 
+Q 263.52 257.76 257.76 257.76 
+L 51.84 257.76 
+Q 46.08 257.76 46.08 263.52 
+L 46.08 300.24 
+Q 46.08 306 51.84 306 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 298.8 306 
+L 553.68 306 
+Q 559.44 306 559.44 300.24 
+L 559.44 263.52 
+Q 559.44 257.76 553.68 257.76 
+L 298.8 257.76 
+Q 293.04 257.76 293.04 263.52 
+L 293.04 300.24 
+Q 293.04 306 298.8 306 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 595.44 306 
+L 811.44 306 
+Q 817.2 306 817.2 300.24 
+L 817.2 263.52 
+Q 817.2 257.76 811.44 257.76 
+L 595.44 257.76 
+Q 589.68 257.76 589.68 263.52 
+L 589.68 300.24 
+Q 589.68 306 595.44 306 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f2f6f9; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 265.796982 282.24 
+Q 278.278278 282.24 289.585638 282.24 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 285.185638 280.04 
+L 289.585638 282.24 
+L 285.185638 284.44 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 561.71707 282.24 
+Q 574.558213 282.24 586.225421 282.24 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 581.825421 280.04 
+L 586.225421 282.24 
+L 581.825421 284.44 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 77.04 351.36 
+L 786.96 351.36 
+Q 792.72 351.36 792.72 345.6 
+L 792.72 326.88 
+Q 792.72 321.12 786.96 321.12 
+L 77.04 321.12 
+Q 71.28 321.12 71.28 326.88 
+L 71.28 345.6 
+Q 71.28 351.36 77.04 351.36 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #e9f1f6; stroke: #bcd0dd; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 432 366.600937 
+Q 432 375.120964 432 382.467054 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 434.2 378.067054 
+L 432 382.467054 
+L 429.8 378.067054 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 32.4 619.92 
+L 831.6 619.92 
+Q 838.8 619.92 838.8 612.72 
+L 838.8 395.28 
+Q 838.8 388.08 831.6 388.08 
+L 32.4 388.08 
+Q 25.2 388.08 25.2 395.28 
+L 25.2 612.72 
+Q 25.2 619.92 32.4 619.92 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #ffffff; stroke: #d9e2e8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 51.84 509.04 
+L 262.08 509.04 
+Q 267.84 509.04 267.84 503.28 
+L 267.84 439.92 
+Q 267.84 434.16 262.08 434.16 
+L 51.84 434.16 
+Q 46.08 434.16 46.08 439.92 
+L 46.08 503.28 
+Q 46.08 509.04 51.84 509.04 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #eff7f5; stroke: #b6d9d2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 303.84 509.04 
+L 534.24 509.04 
+Q 540 509.04 540 503.28 
+L 540 439.92 
+Q 540 434.16 534.24 434.16 
+L 303.84 434.16 
+Q 298.08 434.16 298.08 439.92 
+L 298.08 503.28 
+Q 298.08 509.04 303.84 509.04 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #eff7f5; stroke: #b6d9d2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 576.72 509.04 
+L 811.44 509.04 
+Q 817.2 509.04 817.2 503.28 
+L 817.2 439.92 
+Q 817.2 434.16 811.44 434.16 
+L 576.72 434.16 
+Q 570.96 434.16 570.96 439.92 
+L 570.96 503.28 
+Q 570.96 509.04 576.72 509.04 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #eff7f5; stroke: #b6d9d2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 270.11707 471.6 
+Q 282.958213 471.6 294.625421 471.6 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 290.225421 469.4 
+L 294.625421 471.6 
+L 290.225421 473.8 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 542.281904 471.6 
+Q 555.482697 471.6 567.509554 471.6 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 563.109554 469.4 
+L 567.509554 471.6 
+L 563.109554 473.8 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 72.72 602.64 
+L 791.28 602.64 
+Q 797.04 602.64 797.04 596.88 
+L 797.04 543.6 
+Q 797.04 537.84 791.28 537.84 
+L 72.72 537.84 
+Q 66.96 537.84 66.96 543.6 
+L 66.96 596.88 
+Q 66.96 602.64 72.72 602.64 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #e6f2ef; stroke: #91c4b9; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 158.4 511.321113 
+Q 158.4 523.439292 158.4 534.383536 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 160.6 529.983536 
+L 158.4 534.383536 
+L 156.2 529.983536 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 419.04 511.321113 
+Q 419.04 523.439292 419.04 534.383536 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 421.24 529.983536 
+L 419.04 534.383536 
+L 416.84 529.983536 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 694.08 511.321113 
+Q 694.08 523.439292 694.08 534.383536 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 696.28 529.983536 
+L 694.08 534.383536 
+L 691.88 529.983536 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 432 622.200938 
+Q 432 630.720964 432 638.067054 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 434.2 633.667054 
+L 432 638.067054 
+L 429.8 633.667054 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 32.4 956.16 
+L 831.6 956.16 
+Q 838.8 956.16 838.8 948.96 
+L 838.8 650.88 
+Q 838.8 643.68 831.6 643.68 
+L 32.4 643.68 
+Q 25.2 643.68 25.2 650.88 
+L 25.2 948.96 
+Q 25.2 956.16 32.4 956.16 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #ffffff; stroke: #d9e2e8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 51.84 730.8 
+L 811.44 730.8 
+Q 817.2 730.8 817.2 725.04 
+L 817.2 690.48 
+Q 817.2 684.72 811.44 684.72 
+L 51.84 684.72 
+Q 46.08 684.72 46.08 690.48 
+L 46.08 725.04 
+Q 46.08 730.8 51.84 730.8 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 131.04 733.079531 
+Q 131.04 738.718852 131.04 743.184237 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 133.24 738.784237 
+L 131.04 743.184237 
+L 128.84 738.784237 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 51.84 825.12 
+L 210.96 825.12 
+Q 216.72 825.12 216.72 819.36 
+L 216.72 753.84 
+Q 216.72 748.08 210.96 748.08 
+L 51.84 748.08 
+Q 46.08 748.08 46.08 753.84 
+L 46.08 819.36 
+Q 46.08 825.12 51.84 825.12 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 246.24 825.12 
+L 405.36 825.12 
+Q 411.12 825.12 411.12 819.36 
+L 411.12 753.84 
+Q 411.12 748.08 405.36 748.08 
+L 246.24 748.08 
+Q 240.48 748.08 240.48 753.84 
+L 240.48 819.36 
+Q 240.48 825.12 246.24 825.12 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 440.64 783.36 
+L 599.76 783.36 
+Q 605.52 783.36 605.52 777.6 
+L 605.52 753.84 
+Q 605.52 748.08 599.76 748.08 
+L 440.64 748.08 
+Q 434.88 748.08 434.88 753.84 
+L 434.88 777.6 
+Q 434.88 783.36 440.64 783.36 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 440.64 825.12 
+L 599.76 825.12 
+Q 605.52 825.12 605.52 819.36 
+L 605.52 795.6 
+Q 605.52 789.84 599.76 789.84 
+L 440.64 789.84 
+Q 434.88 789.84 434.88 795.6 
+L 434.88 819.36 
+Q 434.88 825.12 440.64 825.12 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 651.6 825.12 
+L 810.72 825.12 
+Q 816.48 825.12 816.48 819.36 
+L 816.48 753.84 
+Q 816.48 748.08 810.72 748.08 
+L 651.6 748.08 
+Q 645.84 748.08 645.84 753.84 
+L 645.84 819.36 
+Q 645.84 825.12 651.6 825.12 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 218.999268 786.6 
+Q 228.599621 786.6 237.026039 786.6 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 232.626039 784.4 
+L 237.026039 786.6 
+L 232.626039 788.8 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 412.710205 784.68583 
+Q 422.999716 776.160236 432.38527 768.383633 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 427.593536 769.496864 
+L 432.38527 768.383633 
+L 430.400815 772.884959 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 412.710205 788.51417 
+Q 422.999716 797.039764 432.38527 804.816367 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 430.400815 800.315041 
+L 432.38527 804.816367 
+L 427.593536 803.703136 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 607.483916 767.061958 
+Q 625.680387 776.160194 642.826858 784.733429 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 639.875249 780.797949 
+L 642.826858 784.733429 
+L 637.907509 784.733429 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 607.483916 806.138042 
+Q 625.680387 797.039806 642.826858 788.466571 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 637.907509 788.466571 
+L 642.826858 788.466571 
+L 639.875249 792.402051 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 325.44 844.439062 
+Q 325.44 835.919036 325.44 828.572946 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke-dasharray: 3.885,1.68; stroke-dashoffset: 0; stroke: #c88840; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 323.24 832.972946 
+L 325.44 828.572946 
+L 327.64 832.972946 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #c88840; stroke-dasharray: 3.885,1.68; stroke-dashoffset: 0; stroke: #c88840; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 51.84 892.8 
+L 811.44 892.8 
+Q 817.2 892.8 817.2 887.04 
+L 817.2 865.44 
+Q 817.2 859.68 811.44 859.68 
+L 51.84 859.68 
+Q 46.08 859.68 46.08 865.44 
+L 46.08 887.04 
+Q 46.08 892.8 51.84 892.8 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f0f2f4; stroke: #cbd3db; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 51.84 939.6 
+L 811.44 939.6 
+Q 817.2 939.6 817.2 933.84 
+L 817.2 912.96 
+Q 817.2 907.2 811.44 907.2 
+L 51.84 907.2 
+Q 46.08 907.2 46.08 912.96 
+L 46.08 933.84 
+Q 46.08 939.6 51.84 939.6 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #fbf5ec; stroke: #e2c9a7; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 432 895.07707 
+Q 432 899.998208 432 903.745409 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 434.2 899.345409 
+L 432 903.745409 
+L 429.8 899.345409 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 432 958.437949 
+Q 432 966.238003 432 972.864122 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 434.2 968.464122 
+L 432 972.864122 
+L 429.8 968.464122 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #6a7b89; stroke: #6a7b89; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 51.84 1024.56 
+L 811.44 1024.56 
+Q 817.2 1024.56 817.2 1018.8 
+L 817.2 984.24 
+Q 817.2 978.48 811.44 978.48 
+L 51.84 978.48 
+Q 46.08 978.48 46.08 984.24 
+L 46.08 1018.8 
+Q 46.08 1024.56 51.84 1024.56 
+z
+" clip-path="url(#pa041874ba8)" style="fill: #f0f4f7; stroke: #b8c9d5; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 730.8 824.4 
+L 730.8 847.44 
+L 325.44 847.44 
+" clip-path="url(#pa041874ba8)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c88840"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #25364a; font: 700 22px 'Heiti TC'; text-anchor: start" x="39.6" y="36.304062" transform="rotate(-0 39.6 36.304062)">智能建造关键技术识别与发展研判</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #7d8794; font: 11px 'Heiti TC'; text-anchor: start" x="39.6" y="56.16" transform="rotate(-0 39.6 56.16)">全篇研究框架  |  时间背景 → 结构识别 → 语义解释 → 条件性发展路径</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #36769b; font: 700 11px 'Heiti TC'; text-anchor: start" x="46.8" y="111.723672" transform="rotate(-0 46.8 111.723672)">第1—2章  研究问题与理论依据</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #7d8794; font: 9px 'Heiti TC'; text-anchor: end" x="817.2" y="111.046641" transform="rotate(-0 817.2 111.046641)">明确对象、问题与分析逻辑</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="167.4" y="146.114414" transform="rotate(-0 167.4 146.114414)">研究问题</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="167.4" y="167.206641" transform="rotate(-0 167.4 167.206641)">发展阶段 · 关键技术 · 未来方向</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="431.64" y="146.114414" transform="rotate(-0 431.64 146.114414)">理论基础</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="431.64" y="167.274141" transform="rotate(-0 431.64 167.274141)">生命周期 · 知识组合 · 社会网络</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="695.88" y="146.114414" transform="rotate(-0 695.88 146.114414)">研究边界</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="695.88" y="167.206641" transform="rotate(-0 695.88 167.206641)">技术范围 · 时间范围 · 证据口径</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #36769b; font: 700 11px 'Heiti TC'; text-anchor: start" x="46.8" y="241.412188" transform="rotate(-0 46.8 241.412188)">第3章  发展态势与生命周期阶段</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #7d8794; font: 9px 'Heiti TC'; text-anchor: end" x="817.2" y="240.646641" transform="rotate(-0 817.2 240.646641)">输出：统一观察窗口与领域背景</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="154.8" y="280.034414" transform="rotate(-0 154.8 280.034414)">专利与文献样本</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="154.8" y="299.326641" transform="rotate(-0 154.8 299.326641)">检索 · 清洗 · 统计口径</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="426.24" y="280.113164" transform="rotate(-0 426.24 280.113164)">总体态势与生命周期分析</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="426.24" y="299.326641" transform="rotate(-0 426.24 299.326641)">数量 · 子领域 · 主体 · 拟合解释</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="703.44" y="280.034414" transform="rotate(-0 703.44 280.034414)">阶段结构比较</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="703.44" y="299.326641" transform="rotate(-0 703.44 299.326641)">技术构成 · 创新布局</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #25364a; font: 700 10px 'Heiti TC'; text-anchor: middle" x="432" y="343.365" transform="rotate(-0 432 343.365)">统一观察窗口：2010—2014  /  2015—2019  /  2020—2025</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #2d9188; font: 700 11px 'Heiti TC'; text-anchor: start" x="46.8" y="414.128828" transform="rotate(-0 46.8 414.128828)">第4章  关键技术识别与动态演化</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #7d8794; font: 9px 'Heiti TC'; text-anchor: end" x="817.2" y="413.446641" transform="rotate(-0 817.2 413.446641)">输出：关键节点轨迹、九主题与演化证据</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="156.96" y="456.603672" transform="rotate(-0 156.96 456.603672)">分阶段IPC共现网络</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(128.46 482.235922)">统一分类粒度</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(114.21 496.195875)">共现关系与网络结构</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="419.04" y="456.603672" transform="rotate(-0 419.04 456.603672)">节点影响力与跨期比较</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(366.79 482.235922)">度 · 中介 · 接近中心度</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(376.29 496.195875)">关键技术与潜在方向</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="694.08" y="456.653516" transform="rotate(-0 694.08 456.653516)">专利文本映射与BERTopic</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(646.58 482.264867)">题名、摘要的主题表示</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(641.83 496.22482)">九类技术主题及工程内涵</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="432" y="560.283672" transform="rotate(-0 432 560.283672)">演化解释与研究结果汇总</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #25364a; font: 10px 'Heiti TC'; text-anchor: middle" x="432" y="588.050156" transform="rotate(-0 432 588.050156)">节点演化规律  +  主题关联及协同解释  +  来源、时间与适用边界</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #2d9188; font: 9px 'Heiti TC'; text-anchor: start" x="442.8" y="634.486641" transform="rotate(-0 442.8 634.486641)">演化证据输入</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #c88840; font: 700 11px 'Heiti TC'; text-anchor: start" x="46.8" y="669.752031" transform="rotate(-0 46.8 669.752031)">第5章  证据约束下的多智能体发展研判</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #7d8794; font: 9px 'Heiti TC'; text-anchor: end" x="817.2" y="669.119062" transform="rotate(-0 817.2 669.119062)">输出：发展命题、条件性路线与建议</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="431.64" y="707.163672" transform="rotate(-0 431.64 707.163672)">证据组织与量化分析</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #25364a; font: 9px 'Heiti TC'; text-anchor: middle" x="431.64" y="725.215781" transform="rotate(-0 431.64 725.215781)">来源审核与版本管理 · 年度活动估计 · 网络演化与多源证据融合</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="131.4" y="770.354414" transform="rotate(-0 131.4 770.354414)">演化分析</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(112.4 797.235922)">证据摘要</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(107.65 811.195875)">观察与缺口</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="325.8" y="770.438906" transform="rotate(-0 325.8 770.438906)">发展命题生成</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(283.05 797.235922)">对象 · 场景 · 时域</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(292.55 811.195875)">证据与前置条件</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #25364a; font: 700 10px 'Heiti TC'; text-anchor: middle" x="520.2" y="770.195312" transform="rotate(-0 520.2 770.195312)">反向审查</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #25364a; font: 700 10px 'Heiti TC'; text-anchor: middle" x="520.2" y="811.955312" transform="rotate(-0 520.2 811.955312)">工程审查</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #25364a; font: 700 10.5px 'Heiti TC'; text-anchor: middle" x="731.16" y="770.354414" transform="rotate(-0 731.16 770.354414)">裁决</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(707.709102 797.134725)">接受 / 修订</text>
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'" transform="translate(707.709102 811.582072)">降级 / 暂缓</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #c88840; font: 8.5px 'Heiti TC'; text-anchor: middle" x="529.2" y="842.709766" transform="rotate(-0 529.2 842.709766)">局部修订与有限复审</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #25364a; font: 700 9.4px 'Heiti TC'; text-anchor: middle" x="431.64" y="881.648141" transform="rotate(-0 431.64 881.648141)">LangGraph编排 + Harness执行约束：结构化输出 · 确定性校验 · 日志追溯 · 终止条件</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #25364a; font: 700 9.3px 'Heiti TC'; text-anchor: middle" x="431.64" y="929.259281" transform="rotate(-0 431.64 929.259281)">发展路径与评价：2027—2030 / 2031—2035 / 2036—2040  ·  证据一致性、局限与发展建议</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #25364a; font: 700 11px 'Heiti TC'; text-anchor: middle" x="431.64" y="1000.923672" transform="rotate(-0 431.64 1000.923672)">第6章  结论与展望</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #25364a; font: 9.5px 'Heiti TC'; text-anchor: middle" x="431.64" y="1019.164844" transform="rotate(-0 431.64 1019.164844)">回应研究问题 · 总结贡献 · 说明局限 · 提出后续研究方向</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #7d8794; font: 8.8px 'Heiti TC'; text-anchor: start" x="46.8" y="1054.8" transform="rotate(-0 46.8 1054.8)">实线：分析与信息传递；虚线：受限修订。框架表示研究组织，不代表所有评价环节已有实测结果。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa041874ba8">
+   <rect x="0" y="0" width="864" height="1080"/>
+  </clipPath>
+ </defs>
+</svg>

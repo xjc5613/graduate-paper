@@ -1,0 +1,14 @@
+{
+  "all_5913_source_rows_partitioned_once": true,
+  "date_windows_verified": true,
+  "within_field_dedup_counts_verified": true,
+  "early_labels_unavailable": 124,
+  "original_source_hash_unchanged": true,
+  "original_count_differences_by_stage": [
+    3,
+    0,
+    10
+  ],
+  "no_applicant_field": true,
+  "does_not_claim_original_network_input_reconstruction": true
+}
